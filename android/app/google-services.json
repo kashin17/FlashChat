@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "77218844038",
+    "project_id": "flash-chat-316dd",
+    "storage_bucket": "flash-chat-316dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77218844038:android:fd32f228b6de386f5d3007",
+        "android_client_info": {
+          "package_name": "com.KashinCode.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVCHZ6mm1LDoN-R_NCqKi-VOZe1IV_qCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
